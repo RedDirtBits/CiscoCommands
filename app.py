@@ -1,3 +1,7 @@
+"""
+    This is just code used to test the cisco command functions and to show how one
+    might use them.
+"""
 
 from paths import FilePaths
 from arp_table import show_arp_table
